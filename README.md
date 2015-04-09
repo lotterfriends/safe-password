@@ -1,4 +1,4 @@
-# save-password
+# safe-password
 
 use [PBKDF2](http://de.wikipedia.org/wiki/PBKDF2) for creating passwords with a 128-bit (16-byte) salt
 
